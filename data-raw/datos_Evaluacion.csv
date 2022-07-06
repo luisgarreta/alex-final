@@ -1,0 +1,11 @@
+REAL,DesembolsoBIE,PoseeServicioSocial,OcupacionEconomica,EstadoISUN,NivelEducativo,ExGrupo,ServiciosPublicos,TipoVivienda
+FRACASO,No está en Proceso,No está vinculado a Servicio Social,Ocupados en el sector Informal,No Aplica,Básica Primaria,FARC,Sí,Rancho
+FRACASO,No está en Proceso,No está vinculado a Servicio Social,No Aplica,No Aplica,Básica Primaria,FARC,Sí,Apartamento
+FRACASO,No está en Proceso,Posee Certificación de Servicio Social,Ocupados en el sector Informal,No Aplica,Bachiller,AUC,No,Finca
+EXITO,Posee desembolso BIE,Posee Certificación de Servicio Social,Ocupados en el sector Informal,En Funcionamiento,Básica Primaria,FARC,Sí,Cuarto(s)
+EXITO,Posee desembolso BIE,Posee Certificación de Servicio Social,Ocupados en el sector Informal,Cerrado,Básica Secundaria,AUC,Sí,Casa
+FRACASO,Posee desembolso BIE,No está vinculado a Servicio Social,No Aplica,Pendiente por visita ISUN,Bachiller,FARC,No Aplica,No Aplica
+FRACASO,No está en Proceso,Posee Certificación de Servicio Social,Ocupados en el sector Informal,No Aplica,Básica Secundaria,AUC,No,Casa-Lote
+EXITO,Posee desembolso BIE,Posee Certificación de Servicio Social,Ocupados en el sector Informal,Cerrado,Bachiller,AUC,Sí,Casa
+EXITO,Posee desembolso BIE,Posee Certificación de Servicio Social,Ocupados en el sector Informal,Cerrado,Básica Secundaria,AUC,No,Casa
+FRACASO,No está en Proceso,Posee Certificación de Servicio Social,Población Económicamente Inactiva,No Aplica,Básica Primaria,AUC,No,Casa-Lote

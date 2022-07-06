@@ -1,0 +1,151 @@
+VARIABLES: 
+CUALITATIVA 
+SFinal 
+[1] "Exito" 
+[2] "Fracaso" 
+[2] "Fracaso" 
+CUALITATIVA 
+TipoDes 
+[1] "Colectiva" 
+[2] "Individual" 
+[2] "Individual" 
+CUALITATIVA 
+ExG 
+[1] "AUC" 
+[2] "ELN" 
+[3] "EPL" 
+[4] "ERG" 
+[5] "ERP" 
+[6] "FARC" 
+[7] "Otro" 
+[7] "Otro" 
+CUALITATIVA 
+GEtario 
+[1] "Entre 18 y 25 años" 
+[2] "Entre 26 y 40 años" 
+[3] "Entre 41 y 60 años" 
+[4] "Mayor de 60 años" 
+[4] "Mayor de 60 años" 
+CUALITATIVA 
+Sexo 
+[1] "Femenino" 
+[2] "Masculino" 
+[2] "Masculino" 
+CUALITATIVA 
+BTRV 
+[1] "No" 
+[2] "Sí" 
+[2] "Sí" 
+CUALITATIVA 
+BFA 
+[1] "No" 
+[2] "Sí" 
+[2] "Sí" 
+CUALITATIVA 
+BFPT 
+[1] "No" 
+[2] "Sí" 
+[2] "Sí" 
+CUALITATIVA 
+BPDT 
+[1] "No" 
+[2] "Sí" 
+[2] "Sí" 
+CUALITATIVA 
+NEdu 
+[1] "Alfabetización" 
+[2] "Bachiller" 
+[3] "Básica Primaria" 
+[4] "Básica Secundaria" 
+[5] "Sin Nivel" 
+[5] "Sin Nivel" 
+CUALITATIVA 
+MáxNFPT 
+[1] "Auxiliar" 
+[2] "Complementario" 
+[3] "Especialización Técnica" 
+[4] "No Aplica" 
+[5] "Operario" 
+[6] "Semicalificado" 
+[7] "Técnico" 
+[8] "Técnico Profesional" 
+[9] "Tecnológico" 
+[10] "Transversal" 
+[10] "Transversal" 
+CUALITATIVA 
+OcuEco 
+[1] "Desocupados" 
+[2] "No Aplica" 
+[3] "Pob Eco Inactiva" 
+[4] "Sector Informal" 
+[5] "Sin Información" 
+[5] "Sin Información" 
+CUALITATIVA 
+TipoBIE 
+[1] "Educación Superior" 
+[2] "No Aplica" 
+[3] "Plan de Negocio" 
+[4] "Vivienda" 
+[4] "Vivienda" 
+CUALITATIVA 
+EISUN 
+[1] "Cerrado" 
+[2] "En Funcionamiento" 
+[3] "No Aplica" 
+[4] "Pendiente por visita ISUN" 
+[4] "Pendiente por visita ISUN" 
+CUALITATIVA 
+PSS 
+[1] "No Vinculado Ser Social" 
+[2] "Posee Certif Ser Soc" 
+[3] "Vinculado a Ser Soc" 
+[3] "Vinculado a Ser Soc" 
+CUALITATIVA 
+TipoASS 
+[1] "Acompañar Salud y Aliment" 
+[2] "Aporte habilidades Especiales" 
+[3] "Embeller Esp Pub" 
+[4] "Generación de espacios" 
+[5] "Multiplicar Conocimiento" 
+[6] "No Aplica" 
+[7] "Recuperación Ambiental" 
+[7] "Recuperación Ambiental" 
+CUALITATIVA 
+Pareja 
+[1] "No" 
+[2] "Sí" 
+[2] "Sí" 
+CUANTITATIVA 
+Hijos 
+MINIMO: 0 MAXIMO: 9 
+________________________ 
+CUANTITATIVA 
+Gfam 
+MINIMO: 1 MAXIMO: 11 
+________________________ 
+CUALITATIVA 
+TipoVivienda 
+[1] "Apartamento" 
+[2] "Casa" 
+[3] "Casa-Lote" 
+[4] "Cuarto(s)" 
+[5] "Finca" 
+[6] "Habitación" 
+[7] "No Aplica" 
+[8] "Otro" 
+[9] "Otro tipo de vivienda " 
+[10] "Rancho" 
+[11] "Vivienda (casa) indígena" 
+[11] "Vivienda (casa) indígena" 
+CUALITATIVA 
+SerPúb 
+[1] "No" 
+[2] "No Aplica" 
+[3] "Sí" 
+[3] "Sí" 
+CUALITATIVA 
+RegSalud 
+[1] "C - CONTRIBUTIVO" 
+[2] "No posee" 
+[3] "S - SUBSIDIADO" 
+[3] "S - SUBSIDIADO" 

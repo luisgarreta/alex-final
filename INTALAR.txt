@@ -1,0 +1,21 @@
+Para usar el paquete de desistimiento, primero necesitas instalar los siguientes paquetes:
+- ggplot2
+- openxlsx
+- tidyr
+- dplyr
+- ggthemes
+- caret
+- ROCR
+- Metrics
+- devtools
+
+La forma fácil de instalar estos paquetes es desde R con la instrucción install.packages ("Nombre del Paquete").
+Por ejemplo, para el primer paquete "ggplot2"
+
+> install.packages ("ggplot2")
+
+Y así con los demás paquetes
+
+Finalmente, para instalar el paquete de desistimiento, se puede hacer desde R directamente así:
+library(devtools)
+devtools::install_github("luisgarreta/desistimiento")
