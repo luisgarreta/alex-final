@@ -27,9 +27,9 @@ devtools::install_github("luisgarreta/alex", upgrade=FALSE)
 Correr esta celda si se va a ejecutar desde el ambiente Rstudio instalado localmente en el PC.
 
 ```{r install}
-install.packages("devtools")
+update.packages("devtools")
 remove.packages ("desistimiento")
-devtools::install_github("luisgarreta/alex", upgrade=FALSE)
+devtools::install_github("luisgarreta/alex-final", upgrade=FALSE)
 ```
 
 # Introducción
